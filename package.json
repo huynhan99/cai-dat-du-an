@@ -1,15 +1,26 @@
 {
   "name": "app",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "nhan phan",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
     "expess": "^0.0.1-security"
-  }
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huynhan99/cai-dat-du-an.git"
+  },
+  "bugs": {
+    "url": "https://github.com/huynhan99/cai-dat-du-an/issues"
+  },
+  "homepage": "https://github.com/huynhan99/cai-dat-du-an#readme",
+  "description": ""
 }
